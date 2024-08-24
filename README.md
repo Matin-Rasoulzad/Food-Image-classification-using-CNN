@@ -1,6 +1,9 @@
 # Food Image classification using CNN
 
 This project aims to develop a Convolutional Neural Network (CNN) model to classify images of food into various categories. The model is trained on a dataset of food images and will be able to accurately identify different types of food from new, unseen images. For this stage of project, It just classifies two catagory of food, Steak & Pizza 🥩🍕
+
+<br>
+<br>
 ![example](docs/pizza2.jpg)
 
 ## Table of Contents
@@ -31,9 +34,13 @@ This CNN project has been trained in 3 different `Tiny VGG` models but with diff
 ### Predictions
 
 The predictions of the `Final Model`.
-![Screenshot 4](docs/pizza.jpg)
+
+![Screenshot 4](docs/pizza.jpg)<br>
+
 As you see it can confidentially classify `steak🥩` & `pizza🍕`.
-![Screenshot 5](docs/steak.jpg)
+
+![Screenshot 5](docs/steak.jpg)<br>
+
 In later versions we try to add new food catagories from `Food 101 dataset`**(https://www.kaggle.com/datasets/dansbecker/food-101)**
 
 ## Installation
