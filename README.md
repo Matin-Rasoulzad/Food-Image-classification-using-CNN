@@ -18,6 +18,15 @@ The term `Tiny VGG` refers to a simplified or reduced version of the VGG (Visual
 Because of the lack of computational resources, I used `Tiny VGG` instead of common VGGs.
 ![Tiny vgg](docs/tinyvgg.png)
 
+## Code
+
+The code is written in **python** language in **Jupiter notebook** & **Google Colab**.
+I used numpy and matplotlib to visualize and preprocess data, On the top of that tensorflow helped me with building my CNN model.
+
+You can access the notebook via `Notebook.ipynb` in my github **(https://github.com/Matin-Rasoulzad/Food-Image-classification-using-CNN/blob/main/Notebook.ipynb)**
+
+![example2](docs/notebook.png)
+
 ## Screenshots
 
 Here are some screenshots of the project:
