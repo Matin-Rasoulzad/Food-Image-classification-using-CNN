@@ -2,8 +2,6 @@
 
 This project aims to develop a Convolutional Neural Network (CNN) model to classify images of food into various categories. The model is trained on a dataset of food images and will be able to accurately identify different types of food from new, unseen images. For this stage of project, It just classifies two catagory of food, Steak & Pizza 🥩🍕
 
-<br>
-<br>
 ![example](docs/pizza2.jpg)
 
 ## Table of Contents
