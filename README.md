@@ -7,6 +7,7 @@ This project aims to develop a Convolutional Neural Network (CNN) model to class
 ## Table of Contents
 
 - [Architecture](#Architecture)
+- [Code](#Code)
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
